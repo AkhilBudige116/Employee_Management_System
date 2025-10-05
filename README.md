@@ -1,0 +1,1 @@
+This is a simple Python-based Employee Management System designed for console use. It allows users to manage up to 8 employee records with options to add, view, search, update, and delete employee details. The program runs through a menu-driven interface, making it easy to interact and perform operations. Ideal for beginners learning data handling and basic Python functions.
